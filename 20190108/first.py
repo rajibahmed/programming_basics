@@ -18,3 +18,9 @@ for year in years:
     b =2
 
 print(sum)
+
+
+if 1 == 2 :
+    print("hello")
+else :
+    print("not true")
